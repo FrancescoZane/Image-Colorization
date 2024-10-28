@@ -1,7 +1,7 @@
 # Image-Colorization
 
 The goal of this report is to implement two approaches
-to image colorization. We follow two ifferent approaches,
+to image colorization. We follow two different approaches,
 based on the minimization of two different loss functions,
 and compare the results. The first approach is based on
 MSE minimization. The second approach, proposed by
