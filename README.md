@@ -8,5 +8,4 @@ MSE minimization. The second approach, proposed by
 Zhang et. al, views colorization as a classification task
 in which each pixel is classified to its corresponding color.
 
-We implemented both methods using the Pytorch frame-
-work and compared the results.
+We implemented both methods using the Pytorch framework and compared the results.
