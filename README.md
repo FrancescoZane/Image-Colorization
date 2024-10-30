@@ -1,4 +1,5 @@
-# Image-Colorization
+# Image Colorization
+**Simone Toso, Francesco Zane**
 
 The goal of this report is to implement two approaches
 to image colorization. We follow two different approaches,
